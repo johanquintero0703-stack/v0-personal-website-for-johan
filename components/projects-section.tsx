@@ -6,25 +6,25 @@ const projects = [
     name: "VigiTec",
     description:
       "Es un prototipo de app educativa para la tecnovigilancia de dispositivos médicos en Colombia. La aplicación centraliza la normativa nacional, recursos formativos, casos clínicos simulados y apoya a estudiantes de Ingeniería Biomédica y áreas de la salud en la identificación y reporte de incidentes y eventos adversos en el portal oficial del INVIMA (sin sustituirlo).",
-    logo: "/vigitec-logo.jpg",
+    logo: "/logo-vigitec.png",
   },
   {
     name: "OrthoGlove PLA",
     description:
       "Es una órtesis de mano impresa en 3D en PLA, con forma de guante que proporciona soporte y estabilidad a la mano y muñeca, utilizada en rehabilitación y asistencia funcional.",
-    logo: "/orthoglove-pla-logo.jpg",
+    logo: "/logo-orthoglove-pla.png",
   },
   {
     name: "JQ Sentinel Trader",
     description:
       "El sistema funciona con MetaTrader 5 y analiza gráficos de velas en múltiples marcos temporales y diversos activos digitales y criptomonedas. Utiliza indicadores técnicos, noticias y el sentimiento del mercado para predecir con gran precisión si el precio subirá o bajará.",
-    logo: "/jq-sentinel-trader-logo.jpg",
+    logo: "/logo-jq-sentinel-trader.png",
   },
   {
     name: "JQ Freedom Studio",
     description:
       "Esta marca representa a un freelancer independiente que trabaja a distancia a través de plataformas como Workana, valorando la libertad, la flexibilidad, la autonomía y la capacidad de crear su propio camino, más que el dinero.",
-    logo: "/jq-freedom-studio-logo.jpg",
+    logo: "/logo-jq-freedom-studio.png",
   },
 ]
 
