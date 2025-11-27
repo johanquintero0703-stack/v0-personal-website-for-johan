@@ -13,7 +13,7 @@ export function HeroSection() {
         <div className="relative w-32 h-32 mx-auto mb-6">
           <div className="absolute inset-0 rounded-full bg-gradient-to-br from-primary to-secondary opacity-20 blur-xl" />
           <Image
-            src="/professional-portrait-photo-biomedical-engineering.jpg"
+            src="/johan-hero.jpg"
             alt="Johan Quintero"
             width={128}
             height={128}
